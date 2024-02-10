@@ -1,0 +1,10 @@
+
+Downloading files:
+
+wget (allows to download files from the web via http)
+	wget [file link]
+	wget https://assets.tryhackme.com/additional/linux-fundamentals/part3/myfile.txt
+
+
+scp (secure copy protocol)
+	needs usernames and passwords

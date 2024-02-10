@@ -1,0 +1,29 @@
+Each network component can have one or more log sources generating different logs. We can divide our network log sources into two logical parts: Host-Centric Log Sources and Network-Centric Log Sources.
+
+1) Host-Centric Log Sources
+	Captures that occurred within or related to the host.
+	Some examples of host-centric logs are:
+		- A user accessing a file
+		- A user attempting to authenticate
+		- A process Execution Activity
+		- Powershell execution
+
+2) Network-Centric Log Sources
+	Network-related logs when the hosts communicate with each other or access the internet to visit a website. Some network-based protocols are SSH, VPN, HTTP/s, FTP, etc.
+	Examples of such events are:
+		-  SSH connection
+		- A file being accessed via FTP
+		- Web traffic
+		- A user accessing company's resources through VPN
+		- Network file sharing Activity
+
+Key features provided by SIEM
+		- Real-time log Ingestion
+		- 24/7 Monitoring and visibility
+		- Protection against the latest threats through early detection
+		- Data Insights and visualization
+		- Ability ro investigate past incidents
+
+
+SIEM System Information Event Managements
+

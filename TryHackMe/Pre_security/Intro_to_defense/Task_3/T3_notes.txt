@@ -1,0 +1,4 @@
+Task 3: Practical Example of Defensive Security
+
+Security Analysts can view their companies SIEM (Security Incident and Event Management system) dashboard.
+

@@ -1,0 +1,21 @@
+Offensive security focuses on breaking into systems.
+
+
+Defensive security focuses on 
+	1. Preventing intrusions from occurring. 
+	2. Detecting intrusions when they occur and respond properly.
+
+
+Intro to Defensive Security
+In this room 
+Security Operations Center (SOC)
+Threat Intelligence
+Digital Forensics and Incident Response (DFIR)
+Malware Analysi
+
+Some taskss related to this include:
+	User cyber security awareness.
+	Documenting and managing assets
+	Updating and patching systems: Ensuring that computers, servers, and network devices are correctly updated and patched against any known vulnerability (weakness)
+	Setting up preventative security devices
+	Setting up logging and monitoring devices: If a new unauthorized device appears in our network, should be able to see that.
